@@ -27,6 +27,8 @@ By implementing above mentioned logic we can generate a maze and the generated m
 
 ![Dead Ends Maze](screenshots/marked-dead-ends-maze.png)
 
+*The green blocks are the dead ends*
+
 ## No Dead Ends Maze
 
 The process of generating no dead ends maze is similar to that of generating dead ends maze.
