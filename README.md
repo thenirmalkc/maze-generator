@@ -42,3 +42,5 @@ The process of generating no dead ends maze is similar to that of generating dea
 >   - List all the dead end cells in array ( this process is repeated since removing a wall from dead end cell can cause its neighbour's dead end to be removed )
 
 ![No Dead Ends Maze](screenshots/no-dead-ends-maze.png)
+
+*Each and every cell has only 2 walls so there are no dead ends*
