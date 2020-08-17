@@ -1,5 +1,7 @@
 # Generating Dead Ends and No Dead Ends maze using Randomized Depth First Search ( DFS )
 
+## Live Demo [Click Me !!](https://thenirmalkc.github.io/maze-generator/)
+
 ![Maze](screenshots/unmarked-dead-ends-maze.png)
 
 Here, I am not explaining DFS. Please learn about it on your own. I am just explaining how I implemented DFS.
